@@ -1,2 +1,2 @@
 # hello-world
-Trying out GitHub
+Trying out GitHub. Ready for merges.
